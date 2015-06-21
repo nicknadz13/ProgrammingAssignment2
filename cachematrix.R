@@ -1,7 +1,7 @@
 ## Here are two functions that are used to create a special object that stores a matrix and 
-## cache's its inverse.
+## cache's its inverse
 
-## The first function, makeCacheMatrix creates a special "matrix", 
+## The first function, makeCacheMatrix creates a special matrix, 
 ## which is really a list containing a function to:
 ## 1)set the value of the matrix (set_matrix)
 ## 2)get the value of the matrix (get_matrix)
